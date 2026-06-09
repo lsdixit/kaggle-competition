@@ -1,4 +1,7 @@
-# data
+# Always ignore DS
+.DS_Store
+
+# Data
 data/
 
 # Byte-compiled / optimized / DLL files
