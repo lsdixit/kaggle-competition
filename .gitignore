@@ -1,4 +1,10 @@
-# data
+# Always ignore DS
+.DS_Store
+
+# CatBoost Information
+catboost_info/
+
+# Data
 data/
 
 # Byte-compiled / optimized / DLL files
